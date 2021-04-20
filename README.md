@@ -1,2 +1,1 @@
-# rsschool-cv
-rsschool_Task0
+https://desdima.github.io/rsschool-cv/cv
